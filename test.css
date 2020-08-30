@@ -1,0 +1,155 @@
+* {
+  box-sizing: border-box;
+}
+
+
+.nava {
+  height: 150px;
+  padding: 10px;
+  color: beige;
+  background: #7DA3B8
+}
+.nava h1{
+  color: beige;
+  text-align: center;
+  vertical-align: center;
+}
+
+.Thumbnail {
+  display: inline-block;
+  float: none;
+
+}
+.boxc {
+  height: 50px;
+  padding: 5px;
+  color: beige;
+  background: #7DA3B8;
+  text-align: center;
+}
+
+.boxc p{
+  color: beige;
+  font-size: smaller;
+  text-align: center;
+}
+
+.boxa {
+  height: 160px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: black;
+  background: white;
+  text-align: center;
+}
+.boxa p{
+  color: black;
+  font-size: smaller;
+  text-align: center;
+}
+
+.boxb {
+    height: 160px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: black;
+    background: white;
+    text-align: center;
+  }
+
+.boxb p{
+    color:black;
+    font-size: smaller;
+    text-align: center;
+
+}
+
+.boxd{
+  height: auto;
+  padding: 20 px;
+  color: beige;
+  background: #B88051;
+  text-align: center;
+}
+
+.boxd h1{
+  color: whitesmoke;
+  text-align: center;
+  font-size: medium;
+}
+.boxd p{
+  color: beige;
+  font-size: 10 px;
+  text-align: center;
+}
+
+.boxe{
+  height: auto;
+  padding: 20 px;
+  color: beige;
+  background: #7DA3B8;
+  text-align: center;
+}
+
+.boxe h1{
+  color: whitesmoke;
+  text-align: center;
+  font-size: medium;
+}
+.boxe p{
+  color: beige;
+  font-size: 10 px;
+  text-align: center;
+}
+
+.box_comb_a {
+  padding-top: 50px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  height: 300px;
+  color: black;
+  background: white;
+  text-align: center;
+  vertical-align: center;
+}
+
+.box_comb_a h3{
+  color: black;
+  text-align: center;
+  font-size: medium;
+}
+
+.box_comb_b{
+  padding-top: 50px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  height: 300px;
+  color: black;
+  background: white;
+  text-align: center;
+  vertical-align: center;
+}
+
+.box_comb_b h3{
+  color: black;
+  text-align: center;
+  font-size: medium;
+}
+
+.box_comb_a img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.box_comb_b img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
